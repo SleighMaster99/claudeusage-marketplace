@@ -1,0 +1,14 @@
+{
+  "name": "claudeusage",
+  "version": "1.0.2",
+  "description": "Claude Pro 구독 사용량 모니터링 - 세션(5시간) 및 주간(7일) 사용률 실시간 추적",
+  "license": "MIT",
+  "keywords": [
+    "usage",
+    "monitoring",
+    "subscription",
+    "rate-limit",
+    "status-line",
+    "korean"
+  ]
+}

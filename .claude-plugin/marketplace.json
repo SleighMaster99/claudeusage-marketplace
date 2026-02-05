@@ -1,0 +1,19 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "claudeusage-marketplace",
+  "version": "1.0.0",
+  "description": "Claude Pro 구독 사용량 모니터링 플러그인",
+  "owner": {
+    "name": "SleighMaster99",
+    "email": "sleighmaster99@github.com"
+  },
+  "plugins": [
+    {
+      "name": "claudeusage",
+      "description": "Claude Pro 구독 사용량 모니터링 - 세션(5시간) 및 주간(7일) 사용률 실시간 추적",
+      "version": "1.0.2",
+      "source": "./",
+      "category": "productivity"
+    }
+  ]
+}
